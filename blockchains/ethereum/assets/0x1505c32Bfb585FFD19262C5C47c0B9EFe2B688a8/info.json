@@ -1,0 +1,11 @@
+{
+    "name": "MycroSwap",
+    "symbol": "MYS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Mycro brings together users for something greater than money: Time!",
+    "website": "https://myswap.finance/",
+    "explorer": "https://etherscan.io/token/0x1505c32Bfb585FFD19262C5C47c0B9EFe2B688a8",
+    "status": "active",
+    "id": "0x1505c32Bfb585FFD19262C5C47c0B9EFe2B688a8"
+}
